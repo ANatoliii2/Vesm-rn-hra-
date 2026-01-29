@@ -1,2 +1,2 @@
 # Vesm-rn-hra-
-Vesmírná hra Jedná se o jednoduchou hru napsanou v jazyce C#. Hra je navržena jako nekonečná, nemá žádný pevný konec, takže ji můžete hrát nonstop a neustále se snažit překonávat své hranice.
+Představuji vám svůj projekt, což je objektově orientovaná hra napsaná v jazyce C# s využitím Windows Forms. Celý projekt jsem rozdělil do pěti samostatných souborů, abych dodržel správnou architekturu a oddělil logiku hry od grafického zobrazení. 
