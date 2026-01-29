@@ -1,0 +1,9 @@
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\obj\Debug\VesmirnaHra.csproj.AssemblyReference.cache
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\obj\Debug\VesmirnaHra.Properties.Resources.resources
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\obj\Debug\VesmirnaHra.csproj.GenerateResource.cache
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\obj\Debug\VesmirnaHra.csproj.CoreCompileInputs.cache
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\bin\Debug\VesmirnaHra.exe.config
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\bin\Debug\VesmirnaHra.exe
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\bin\Debug\VesmirnaHra.pdb
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\obj\Debug\VesmirnaHra.exe
+C:\Users\Толя\source\repos\VesmirnaHra\VesmirnaHra\obj\Debug\VesmirnaHra.pdb
